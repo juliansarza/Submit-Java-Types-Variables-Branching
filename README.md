@@ -1,18 +1,12 @@
-## Getting Started
+## Submit: Java Types, Variables, & Branching
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sign up for Udemy (if you haven't already) and join this free course: https://www.udemy.com/course/java-tutorial/
 
-## Folder Structure
+Complete exercises 
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+6: Using Variables, 
+7: Strings: Working with Text
+8: While Loops.
+9: For Loops.
+10: Getting User input
+Approximate Completion Time 1:30
